@@ -32,11 +32,13 @@
 <p align="center"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="c" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="c" width="40" height="40"/>
 </p>
 
 <p align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/>
 </p>
 <p align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="c" width="40" height="40"/>
@@ -61,13 +63,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="c" width="40" height="40"/> 
 </p>
 
-# 
-<h3 align="center" style="">🛠️ Learning ...</h3>
-<p align="center"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/>
-</p>
 
-#
+
+
 
 
